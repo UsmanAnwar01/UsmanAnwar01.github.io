@@ -1,6 +1,6 @@
 # Data Scientist
 
-#### Technical Skills: Python, SQL, AWS, Snowflake, MATLAB
+#### Technical Skills: Python, SQL, AWS, Power BI, MATLAB
 
 ## Education	 			        		
 - B.S., Electrical Engineering | Lancaster University (_Feb 2016_)
