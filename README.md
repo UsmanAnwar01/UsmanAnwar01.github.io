@@ -3,7 +3,7 @@
 #### Technical Skills: Python, SQL, AWS, Snowflake, MATLAB
 
 ## Education	 			        		
-- B.S., Physics | The University of Texas at Dallas (_May 2017_)
+- B.S., Electrical Engineering | Lancaster University (_Feb 2016_)
 
 ## Work Experience
 **Data Scientist @ Wateen  (Feb 2023 - Present_)**
