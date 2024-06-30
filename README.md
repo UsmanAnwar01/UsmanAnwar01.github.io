@@ -1,6 +1,6 @@
 # Data Scientist
 
-#### Technical Skills: Python, SQL, AWS, Power BI, AWS, 
+#### Technical Skills: Python, SQL, AWS, Power BI, AWS, Apache
 
 ## Education	 			        		
 - B.S., Electrical Engineering | Lancaster University (_Feb 2016_)
@@ -28,15 +28,13 @@ Conduct a comprehensive analysis of temperature data from nationwide microwave n
 
 Develop an interactive dashboard to analyze and visualize the performance and efficiency of the nationwide field operations team, providing actionable insights to optical fiber breaks, improve resource allocation, and enhance service delivery.
 
-## Talks & Lectures
+## Memberships & Webinars
 - Causality: The new science of an old question - GSP Seminar, Fall 2021
 - Guest Lecture: Dimensionality Reduction - Big Data and Machine Learning for Scientific Discovery (PHYS 5336), Spring 2021
 - Guest Lecture: Fourier and Wavelet Transforms - Scientific Computing (PHYS 5315), Fall 2020
 - A Brief Introduction to Optimization - GSP Seminar, Fall 2019
 - Weeks of Welcome Poster Competition - UTD, Fall 2019
 - A Brief Introduction to Networks - GSP Seminar, Spring 2019
-
-- [Data Science YouTube](https://www.youtube.com/channel/UCa9gErQ9AE5jT2DZLjXBIdA)
 
 ## Certification and Courses
 1. AWS Certified Solutions Architect - Associate [3NR94KTJSNV11Q9Z]
