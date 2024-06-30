@@ -1,4 +1,4 @@
-![image](https://github.com/UsmanAnwar01/UsmanAnwar01.github.io/assets/44197546/c6c9bc83-366b-4dd8-843e-1c77af26ec0d)# Data Scientist
+# Data Scientist
 
 #### Technical Skills: Python, SQL, AWS, Power BI, MATLAB
 
