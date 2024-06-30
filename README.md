@@ -47,7 +47,7 @@ Used **Matlab** to train over 100 machine learning models which estimated partic
 5. Power Shell [Linkedin Learning]
 6. Crash Course on Python [Coursera]
 7. IT Support [Google]
-6.REST APIs [Linkedin Learning]
+8. REST APIs [Linkedin Learning]
  
 
 - [Data Science Blog](https://medium.com/@shawhin)
