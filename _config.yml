@@ -5,3 +5,5 @@ theme: jekyll-theme-minimal
 minima:
 logo: "Profile.jpeg" 
 markdown: kramdown
+
+email : "usmanaanwer@gmail.com"
