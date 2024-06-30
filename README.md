@@ -1,6 +1,6 @@
 # Data Scientist
 
-#### Technical Skills: Python, SQL, AWS, Power BI, MATLAB
+#### Technical Skills: Python, SQL, AWS, Power BI, AWS, 
 
 ## Education	 			        		
 - B.S., Electrical Engineering | Lancaster University (_Feb 2016_)
@@ -40,11 +40,13 @@ Used **Matlab** to train over 100 machine learning models which estimated partic
 - [Data Science YouTube](https://www.youtube.com/channel/UCa9gErQ9AE5jT2DZLjXBIdA)
 
 ## Certification and Courses
-1. Amazon Solution Architect 
-2. Bash Scripting [Coursera]
-3. Power Shell [Linkedin Learning]
-4. Crash Course on Python [Coursera]
-5. IT Support [Google]
+1. AWS Certified Solutions Architect - Associate [3NR94KTJSNV11Q9Z]
+2. AWS Cloud Practitioner Essentials
+3. HCIP [010200402809618491409]
+4. Bash Scripting [Coursera]
+5. Power Shell [Linkedin Learning]
+6. Crash Course on Python [Coursera]
+7. IT Support [Google]
 6.REST APIs [Linkedin Learning]
  
 
