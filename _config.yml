@@ -4,6 +4,6 @@ email : usmanaanwer@gmail.com
 ##show_downloads : True
 theme: jekyll-theme-minimal
 #minima:
-#logo: "Profile.jpeg" 
+logo: "Profile.jpeg" 
 #markdown: kramdown
 
