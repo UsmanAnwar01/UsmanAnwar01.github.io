@@ -5,3 +5,4 @@ minima:
 logo: "Profile.jpeg" 
 markdown: kramdown
 description: >- # this means to ignore newlines until "baseurl:"
+profile_image: "assets/images/Profile.jpeg"
