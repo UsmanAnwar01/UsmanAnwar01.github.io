@@ -4,4 +4,4 @@ theme: jekyll-theme-minimal
 minima:
 logo: "Profile.jpeg" 
 markdown: kramdown
-
+description: >- # this means to ignore newlines until "baseurl:"
