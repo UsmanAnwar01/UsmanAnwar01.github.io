@@ -1,6 +1,6 @@
 # Data Analyst
 
-#### Technical Skills: Python, SQL, AWS, Power BI, AWS
+#### Technical Skills: Python, SQL, AWS, Power BI, AWS, MS OFFICE (Sharepoint, Access, Excel, Azure)
 
 ## Education	 			        		
 - B.S., Electrical Engineering | Lancaster University (_Feb 2016_)
