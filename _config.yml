@@ -4,6 +4,6 @@ title : Usman Anwar
 show_downloads : True
 theme: jekyll-theme-minimal
 minima:
-logo: "Profile.jpeg" 
+
 markdown: kramdown
 
