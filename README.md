@@ -6,7 +6,13 @@
 - B.S., Electrical Engineering | Lancaster University (_Feb 2016_)
 
 ## Work Experience
-**Team Lead @ Wateen  (Feb 2023 - Present_)**
+**Manager @ Wateen  (Dec 2024 - Present_)**
+- Managing 3 Teams of NOC comprised of 21+ Shift Engineers
+- Additionaly having role of TXN BO
+-  FCAPS of NWD Network
+
+
+**Assisstant Manager @ Wateen  (Feb 2023 - December 2024)**
 - Uncovered and corrected missing steps in the production data pipeline.
 - Developed, deployed, and maintained AI-driven solutions.
 - Automating and optimizing company operations with advanced optimization techniques. 
